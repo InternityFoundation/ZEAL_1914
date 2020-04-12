@@ -1,6 +1,17 @@
 By# ZEAL_1914
 
-                                           INFLUENCE MAXIMIERS IN SOCIAL NETWORKS
-                                           "Keep quarantined and rightly informed"
+                                      INFLUENCE MAXIMISERS IN SOCIAL NETWORKS
+                                      "Keep quarantined and rightly informed"
                                            
-Our basic motive is to reach the masses with the right information. And since this is the time of social distancing the one and only way to broadcast is through social media. We wish to find the influence maximisers in various social media platforms and provide them with the right information so that they can spread it in innovative ways for its effectiveness among people. In this time of coronavirus, where the whole country is fighting a battle,each and everyone's contribution counts a lot. We need a guided structure of what needs to be followed,what not, how they need to be followed and most importantly disregarding the fake news being circulated which creates panic among people. If we select the right people to spread it, it will definitely reach the masses. Everybody is accessing the internet but nobody is reading the right information from the government(those official documents which are let out by the government) rather one person reads it and passes its opinion on social media which takes a new shape with every person and spreads along making a false impact in many situations.So we need all the influential people to become the voice of the govt in this state of pandemic and help reduce panic and instill belief that we can fight this if we are together.
+
+Our basic motive is to reach the masses with the right information. And since this is the time of social distancing the one and only way to broadcast is through social media. We wish to find the influence maximisers in various social media platforms and provide them with the right information so that they can spread it in innovative ways for its effectiveness among people. 
+
+
+Approach- We are finding the top k- influencers in social media platforms through node activity, node connectivity and node recency. We are selecting the top influencers by taking into account all these three factors. From our dataset we are extracting the information. The node or the person who has
+•	The maximum followers( node connectivity- outdegree of node)
+•	The past interactions of node( node activity- node activity weights)
+•	The frequency in which posts are done( node recency- timestamp)
+
+
+Solution-  We aim at finding such nodes which can be of great help in this pandemic and helps in spreading the right information.
+
